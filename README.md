@@ -12,6 +12,13 @@
 
 ---
 
+**Notlandırma**    
+%40 Ara Sınav   + Ödevler    
+%60 Final Sınavı +Ödevler
+
+
+---
+
 **İletişim**
 Dr. Öğr. Üyesi Ali ŞENTÜRK   
 eposta: alisenturk@isparta.edu.tr   
