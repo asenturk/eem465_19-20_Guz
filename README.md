@@ -1,3 +1,14 @@
+**Arasınav (03.11.2019)**     
+- Sınav süresi 65 dakikadır.
+- Sınavda  7 soru bulunmaktadır. 1. hafta hariç tüm haftalardan soru vardır. 1. hafta anlatılan konular soruların çözümünde kullanılmamalıdır.
+- Sınavda ihtiyacınız olan yapılar verilecektir. Derste kullanılan yapıların neden ve nasıl o şekilde kullanıldıklarının mantığını anlamanız tavsiye edilmektedir.
+-  Sınav kağıdına yoklama sıra numaranızı yazmanız gerekmektedir. Yoklama sıra numaralarını [Sınıf Listeler](./arasinav/sinif_listeler.txt) dosyasından bakabilirsiniz. Yoklama sıra numarasını yazmayanlar sınav kağıtlarını kontrol edemeyeceklerdir.
+- [Sınıf Listeler](./arasinav/sinif_listeler.txt) dosyasında da gösterildiği gibi 1. öğretim yoklama sıra numarası 1-25  olan öğrenciler 1001 nolu sınıfta, 26-60 olan öğrenciler BLAB'da sınıfta sınava girecektir. 2. Öğretim 1004 nolu sınıfta sınav girecektir.
+- Sınavdan önce sınıflara yoklama listesi asılacaktır. Bu yoklama listesi sınavda önünüze gelecek ve listede isminiz yok ise yoklamaya imza atmanız mümkün olmayacaktır.
+
+
+---
+
 **Derste kullanılacak cihaz ve program**
 
 - Cihaz: [STM32F4 Discovery](https://www.st.com/en/evaluation-tools/stm32f4discovery.html)
