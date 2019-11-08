@@ -1,3 +1,18 @@
+**Arasınav Sonuçları ve Kontrol (08.11.2019)**   
+Arasınav notlarına [Arasınav](./arasinav/) klasöründen ulaşabilirsiniz.   
+Sınav kağıtlarını 13.11.2019 Çarşaba ilk gün 19.11.2019 Salı  son gün olmak üzere kontrol edebilirsiniz.   
+
+Sınav kağıdını kontrol için geldiğinizde **Ders Adı -> 1. veya 2. öğretim -> Yoklama Sıra No** bilgilerini söyleyiniz. 
+
+*Yoklama sıra nosuna* notunuzu öğrendiğiniz dosyadan bakabilirsiniz.  
+
+Kontrol için süre en fazla 10 dakikadır. Aynı anda birden fazla kişi kağıdını kontrol edemez. Dolayısıyla ofiste birileri var ise çıkmasını beklemeniz gerekiyor.
+
+
+---
+
+
+
 **Arasınav (03.11.2019)**     
 - Sınav süresi 65 dakikadır.
 - Sınavda  7 soru bulunmaktadır. 1. hafta hariç tüm haftalardan soru vardır. 1. hafta anlatılan konular soruların çözümünde kullanılmamalıdır.
