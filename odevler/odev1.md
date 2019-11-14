@@ -2,7 +2,10 @@
 
 Butonun basılı tutulması süresine göre LEDler yakılacaktır. Süre 2 tabanıda basamaklara karşılık gelen LEDler yakılarak gösterilecektir.
 
-Yeşil LED 2^0 (2 üzeri 0) basamağı   
+Yeşil LED 
+$$
+2^0
+$$ (2 üzeri 0) basamağı   
 Turuncu LED 2^1 basamağı   
 Kırmızı LED 2^2 basamağı   
 Mavi LED 2^3 basamağı olarak düşünülecektir. Dolayısıyla örneğin 12 saniye ve fazla 13 saniyeden az basılması durumunda 
