@@ -1,3 +1,10 @@
+**Ödev 1 (14.11.2019)**   
+Ödev 1 eklenmiştir. Ayrıntılar için [Ödevler](./odevler/) klasörüne bakabilirsiniz.   
+Son gönderim tarihi 24.11.2019
+
+
+---
+
 **Arasınav Sonuçları ve Kontrol (08.11.2019)**   
 Arasınav notlarına [Arasınav](./arasinav/) klasöründen ulaşabilirsiniz.   
 Sınav kağıtlarını 13.11.2019 Çarşaba ilk gün 19.11.2019 Salı  son gün olmak üzere kontrol edebilirsiniz.   

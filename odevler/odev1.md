@@ -31,6 +31,8 @@ Programın kart üzerinde çalıştığı gösterilmelidir. Videonun bir köşes
 Video 5 dakika civarı olmalıdır. 8 dakikayı kesinlikle geçmesin.    
 Video en az 720 en fazla 1080 boyutunda olmalıdır.
 
+Ödev arasınava +10 puan olarak değerlendirilecektir.
+
 
 
 
