@@ -2,6 +2,8 @@
 Ödev 1 eklenmiştir. Ayrıntılar için [Ödevler](./odevler/) klasörüne bakabilirsiniz.   
 Son gönderim tarihi 24.11.2019
 
+*Ödevde eğik olarak yazılmış yeni açıklamalar eklenmiştir.*
+
 
 ---
 
