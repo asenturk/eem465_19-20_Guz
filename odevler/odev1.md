@@ -12,6 +12,8 @@ Mavi LED 2^3 basamağı olarak düşünülecektir. Dolayısıyla örneğin 12 sa
 
 Butona basılma ve butondan elin çekilmesi interrupt ile algılanacak ve her zaman geçtikçe LEDler saniyeyi gösterecek şekilde yanacaktır. 
 
+*Elinizi çektiğinizde ne kadar basılı tuttuğunuzu göstermesi açısından LEDler yanık kalacaktır.*
+
 Zamanı ölçmek için SysTick timer kullanılacaktır.
 
 Butona kaç saniye basılı tutulduğu bir değişkende tutulacak ve bu değişkenin bitleri taranarak hangi LEDlerin yanması gerektiği belirlenecektir. çok fazla if-else yapısı kullanmayınız.
@@ -30,6 +32,8 @@ Videonuzda, derste anlatıldığı gibi algoritmayı nasıl oluşturduğunuz, ha
 Programın kart üzerinde çalıştığı gösterilmelidir. Videonun bir köşesinde sizin görüntünü olmalıdır.    
 Video 5 dakika civarı olmalıdır. 8 dakikayı kesinlikle geçmesin.    
 Video en az 720 en fazla 1080 boyutunda olmalıdır.
+
+*Video ekran görüntüsünün çekilmesi şeklinde olmalıdır.*
 
 Ödev arasınava +10 puan olarak değerlendirilecektir.
 
