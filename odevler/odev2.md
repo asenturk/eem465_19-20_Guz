@@ -35,7 +35,7 @@ Butonları pull up veya pull down olarak ayarlanmaları videoda izah edilecektir
 
 ---
 
-Ödev  en son **02.12.2019** tarihinde Youtube'a yüklenip video linki aşağıdaki bağlantı adresinde bulunan forma eklenecektir.
+Ödev  en son **01.12.2019** tarihinde Youtube'a yüklenip video linki aşağıdaki bağlantı adresinde bulunan forma eklenecektir.
 Forma 1 adet cevap ekleyebilirsiniz. Bundan dolayı dikkatli olmanız gerekmektedir.
 https://forms.gle/pZXSASc6ntDSyoHq8
 
