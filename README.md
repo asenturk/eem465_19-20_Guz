@@ -1,3 +1,11 @@
+**Ödev 2 (25.11.2019)**  
+Ödev 2 eklenmiştir. Ayrıntılar için [Ödevler](./odevler/) klasörüne bakabilirsiniz.   
+Son gönderim tarihi 01.12.2019
+
+
+
+---
+
 **Ödev 1 (14.11.2019)**   
 Ödev 1 eklenmiştir. Ayrıntılar için [Ödevler](./odevler/) klasörüne bakabilirsiniz.   
 Son gönderim tarihi 24.11.2019
