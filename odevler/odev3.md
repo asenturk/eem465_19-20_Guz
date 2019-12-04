@@ -37,10 +37,10 @@ Video en az 720 en fazla 1080 boyutunda olmalıdır.
 
 Video ekran görüntüsünün çekilmesi şeklinde olmalıdır.
 
-Ödev arasınava +10 puan olarak değerlendirilecektir.
+Ödev Final sınavına +10 puan olarak değerlendirilecektir.
 Eğer ödev az kişi tarafından yapılırsa puan arttırılacaktır.
 
-Daha önceki ödevlerden hiç emek sarfedilmeden puan alınmaya çalışıldığı  görülmüştür. Bundan dolayı kodlarınızı kimse ile paylaşmayınız.  Örnek programı anlayan bir kişi rahat bir şekilde programı yazabilir. Aynı programı anlatan olursa puanlar  bölünecektir. Programın nasıl çalışması gerektiği yani programın algoritmasının ne olduğu ile ilgili bilgi paylaşımında bulunabilirsiniz.
+Daha önceki ödevlerden hiç emek sarfedilmeden puan alınmaya çalışıldığı  görülmüştür. Bundan dolayı kodlarınızı kimse ile paylaşmayınız.  Örnek programı anlayanlar  rahat bir şekilde programı yazabilir.   Programın nasıl çalışması gerektiği yani programın algoritmasının ne olduğu ile ilgili bilgi paylaşımında bulunabilirsiniz. Programlar aynı veya benzer olanların ödevleri değerlendirilmeyecektir.
 
 
 
