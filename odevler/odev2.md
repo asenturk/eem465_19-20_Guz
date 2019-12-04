@@ -50,7 +50,7 @@ Video en az 720 en fazla 1080 boyutunda olmalıdır.
 
 Video ekran görüntüsünün çekilmesi şeklinde olmalıdır.
 
-Ödev arasınava +10 puan olarak değerlendirilecektir. Eğer ödev az kişi tarafından yapılırsa puan arttırılacaktır.
+Ödev arasınava +10 puan olarak değerlendirilecektir. Eğer ödev az kişi tarafından yapılırsa puan arttırılacaktır. 
 
 
 
