@@ -4,8 +4,10 @@ Bu ödevde bir genel amaçlı zamanlayıcının 3 kanalından PWM sinyali üreti
 
 Bu PWM sinyalleri ile bir RGB led yakılacaktır. 
 
-RGB ledin B bacağına %5'ten %95'e kadar %1 artan duty cycle uygulanacak %95'e geldiğinde tekrar  %5'e düşecek.
-RGB ledin G bacağına, B bacağına uygulanan duty cycle her %95'ten %5'e düştüğünde %1 artmak üzere %5'ten %95'e kadar %1 artan duty cycle uygulanacak %95'e geldiğinde tekrar  %5'e düşecek.
+RGB ledin B bacağına %5'ten %95'e kadar %1 artan duty cycle uygulanacak %95'e geldiğinde tekrar  %5'e düşecek.   
+
+RGB ledin G bacağına, B bacağına uygulanan duty cycle her %95'ten %5'e düştüğünde %1 artmak üzere %5'ten %95'e kadar %1 artan duty cycle uygulanacak %95'e geldiğinde tekrar  %5'e düşecek.  
+
 RGB ledin R bacağına, G bacağına uygulanan duty cycle her %95'ten %5'e düştüğünde %1 artmak üzere %5'ten %95'e kadar %1 artan duty cycle uygulanacak %95'e geldiğinde tekrar  %5'e düşecek.
 
 Bu şekilde programlanan RGB LED (yaklaşık) tüm renk tonlarını göstermiş olacaktır.
