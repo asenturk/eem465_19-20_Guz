@@ -17,7 +17,7 @@ Belirtilen şekilde programı yazınız.
 
 ---
 
-Ödev  en son **11.12.2019** tarihinde Youtube'a yüklenip video linki aşağıdaki bağlantı adresinde bulunan forma eklenecektir.
+Ödev  en son **13.12.2019** tarihinde Youtube'a yüklenip video linki aşağıdaki bağlantı adresinde bulunan forma eklenecektir.
 
 Forma 1 adet cevap ekleyebilirsiniz. Bundan dolayı dikkatli olmanız gerekmektedir.
 https://forms.gle/ENDoQ2D7cBnSAWRZA
