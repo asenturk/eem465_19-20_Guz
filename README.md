@@ -1,3 +1,10 @@
+**Ödev Değerlendirmeler (22.12.2019)**    
+Ödev değerlendirmeler Ödevler klasörüne eklenmiştir.
+
+Arasınav notları 25.12.2019 tarihinde sisteme girilecektir.
+
+---
+
 **Ödev 3 (04.12.2019)**   
 Ödev 3 eklenmiştir. Ayrıntılar için [Ödevler](./odevler/) klasörüne bakabilirsiniz.
 Son gönderim tarihi 13.12.2019
