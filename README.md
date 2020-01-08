@@ -1,3 +1,23 @@
+**Final Sınavı (08.01.2020)** 
+
+Programda gösterildiği gibi 1. öğretim 1003, 2. öğretim 1002 nolu sınıfta sınava gireceklerdir. Yoklama sıra numaranızı gelen yoklama listesine bakara yazınız. Yoklama sıra numarasını yazmayanlar sınav kağıdını kontrol edemeyecektir. 
+
+Final sınavında 6 soru bulunmaktadır. 2 soru cihazın işleyişi, 4 soru programlama ile ilgilidir.
+
+Sınavda Timer, DMA, ADC, USART ve vize öncesi konulardan 1 tane olmak üzere sorular bulunmaktadır.
+
+Açıklama sorularında en fazla 3 cümle ile  cevapları vermeniz yeterli olacaktır. Gereksiz ve alakasız bilgi vermeniz puan alamamanıza sebep olabilir.
+
+Programlama sorularında sadece sorulan soru ile ilgili kodlamaları yapmanız istenmekte ve ilgili diğer tüm ayarların yapıldığı var sayılmaktadır. Dolayısıyla soruyu dikkatli bir şekilde okuyup, sorunun ilgilendiği kısım ile ilgili kodlamaları yapmanız gerekli ve yeterlidir. Fazladan yapılacak olan kodlamalara puan verilmeyecektir. Bu sorulardan 3 tanesinde zaten kullanacağınız yazmaçlar verilmiştir. Dolayısıyla sadece soruda verilen yazmaçları kullanmanız yeterlidir.
+
+Sınav süresi 55 dakikadır. Sınav nispeten kolay bir sınav olduğu, konuların mantığının anlaşılması ile kolayca yapılabileceği söylenebilir. Ezberleyerek çalışmamanız önerilmektedir.
+
+Sınav 120 puan üzerinden değerlendirilecektir.  
+
+
+
+---
+
 **Ödev Değerlendirmeler (22.12.2019)**    
 Ödev değerlendirmeler Ödevler klasörüne eklenmiştir.
 
