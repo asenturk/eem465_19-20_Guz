@@ -2,7 +2,7 @@
 
 Programda gösterildiği gibi 1. öğretim 1003, 2. öğretim 1002 nolu sınıfta sınava gireceklerdir. Yoklama sıra numaranızı gelen yoklama listesine bakara yazınız. Yoklama sıra numarasını yazmayanlar sınav kağıdını kontrol edemeyecektir. 
 
-Final sınavında 6 soru bulunmaktadır. 2 soru cihazın işleyişi, 4 soru programlama ile ilgilidir.
+Final sınavında 6 soru bulunmaktadır. 2 soru cihazın ilgili ünitelerinin işleyişi, 4 soru programlama ile ilgilidir.
 
 Sınavda Timer, DMA, ADC, USART ve vize öncesi konulardan 1 tane olmak üzere sorular bulunmaktadır.
 
