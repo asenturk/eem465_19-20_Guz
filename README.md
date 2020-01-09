@@ -1,3 +1,17 @@
+**Final Notları (10.01.2020)**   
+
+Final notlarına [Final Sınavı](./final_sinavi/) klasöründen ulaşabilirsiniz.   
+Sınav kağıtlarını 14.01.2020 Salı son gün  olmak üzere kontrol edebilirsiniz.   
+
+Sınav kağıdını kontrol için geldiğinizde **1. veya 2. öğretim -> Yoklama Sıra No** bilgilerini söyleyiniz. 
+
+*Yoklama sıra nosuna* notunuzu öğrendiğiniz dosyadan bakabilirsiniz.  
+
+Kontrol için süre en fazla 10 dakikadır. Aynı anda birden fazla kişi kağıdını kontrol edemez. Dolayısıyla ofiste birileri var ise çıkmasını beklemeniz gerekiyor.
+
+
+---
+
 **Final Sınavı (08.01.2020)** 
 
 Programda gösterildiği gibi 1. öğretim 1003, 2. öğretim 1002 nolu sınıfta sınava gireceklerdir. Yoklama sıra numaranızı gelen yoklama listesine bakara yazınız. Yoklama sıra numarasını yazmayanlar sınav kağıdını kontrol edemeyecektir. 
