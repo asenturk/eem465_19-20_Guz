@@ -1,6 +1,6 @@
 **Final Notları (10.01.2020)**   
 
-Final notlarına [Final Sınavı](./final_sinavi/) klasöründen ulaşabilirsiniz.   
+Final notlarına [Final](./final/) klasöründen ulaşabilirsiniz.   
 Sınav kağıtlarını 14.01.2020 Salı son gün  olmak üzere kontrol edebilirsiniz.   
 
 Sınav kağıdını kontrol için geldiğinizde **1. veya 2. öğretim -> Yoklama Sıra No** bilgilerini söyleyiniz. 
