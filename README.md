@@ -1,3 +1,15 @@
+**Bütünleme Sınavı Duyuru 1 (22.01.2020)**   
+Bütünleme sınavı taslak olarak hazırlanmıştır.   
+Bütünleme sınavında 6 soru çıkması düşünülmüştür. Süre 55 dakika olacak ve 120 puan üzerinden değerlendirilecektir.   
+Sınavda 1 USART, 1 DMA, 2 ADC, 2 Timer sorusu bulunmaktadır. Tarz olarak final sınavına benzerdir. Bu  konularla birlikte temel konuları da bilmeniz gerekmektedir.   
+
+Sınav kağıdı son halini aldığında tekrar açıklama yapılacaktır.
+
+Sınavın finalden daha kolay olduğu söylenebilir.
+
+
+---
+
 **Final Notları (10.01.2020)**   
 
 Final notlarına [Final](./final/) klasöründen ulaşabilirsiniz.   
