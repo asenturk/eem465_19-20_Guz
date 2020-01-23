@@ -1,4 +1,34 @@
 **Bütünleme Sınavı Duyuru 1 (22.01.2020)**   
+
+Sınıv kağıdına yoklama sıranızı yazmanız gerekmektedir. Yoklama sıranıza aşağıda bağlantısı verilen listeden bakabilirsiniz.   
+[Sınıf Listeleri](./butunleme/sinif_listeleri.txt)
+
+1\. öğretimler 1002 nolu derslikte, 2. öğretimler 1004 nolu derslikte sınava gireceklerdir.
+
+Sınav süresi 55 dakikadır. Sınav 130 puan üzerinden değerlendirilecektir.
+
+ÖNEMLİ: Sınava hesap makinesi getirebilirsiniz. 
+
+ 
+Sınavda 1 USART, 1 DMA, 2 ADC, 2 Timer sorusu bulunmaktadır. Tarz olarak final sınavına benzerdir. Bu  konularla birlikte temel konuları da bilmeniz gerekmektedir.   
+
+Sınavda diğer tüm ayarların yapıldığını varsayınız deniliyor ise sadece soruda sorulan kısımla ilgili kodlamaları yapınız.
+
+1\. soruda a b ve c kısımları bulunmaktadır. cevabınızın başına a) b) ve c) şeklinde belirtmezseniz cevabınızı okumayacağım, bilginize..
+
+Tanım sorusu bulunmamaktadır.
+
+Sınavın finalden daha kolay olduğu söylenebilir.
+
+Gelecek hafta izinli olacağım. Bununla birlikte bir günün belirli saatlerinde  okula gelmeyi düşünüyorum. Bu vakti duyuracağım. Dolayısıyla sınav kağıtlarını kontrol etmek isteyenlerin bu süre içinde gelip kağıtlarını kontrol etmeleri gerekecek.
+
+Başarılar.
+
+
+---
+
+
+**Bütünleme Sınavı Duyuru 1 (22.01.2020)**   
 Bütünleme sınavı taslak olarak hazırlanmıştır.   
 Bütünleme sınavında 6 soru çıkması düşünülmüştür. Süre 55 dakika olacak ve 120 puan üzerinden değerlendirilecektir.   
 Sınavda 1 USART, 1 DMA, 2 ADC, 2 Timer sorusu bulunmaktadır. Tarz olarak final sınavına benzerdir. Bu  konularla birlikte temel konuları da bilmeniz gerekmektedir.   
