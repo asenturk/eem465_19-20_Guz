@@ -1,4 +1,4 @@
-**Bütünleme Sınavı Duyuru 1 (22.01.2020)**   
+**Bütünleme Sınavı Duyuru 2 (23.01.2020)**   
 
 Sınıv kağıdına yoklama sıranızı yazmanız gerekmektedir. Yoklama sıranıza aşağıda bağlantısı verilen listeden bakabilirsiniz.   
 [Sınıf Listeleri](./butunleme/sinif_listeleri.txt)
