@@ -1,3 +1,9 @@
+**Bütünleme Sınavı Sonuçları (26.01.2020)**   
+Notlarınıza [Bütünleme](./butunleme/) klasöründen ulaşabilirsiniz.   
+28.01.2020 14:00-17:00 arasında sınav kağıtlarınızı kontrol edebilmeniz için ofisimde olmayı planlıyorum. Aksi bir durum olursa duyurulacaktır.
+
+---
+
 **Bütünleme Sınavı Duyuru 2 (23.01.2020)**   
 
 Sınıv kağıdına yoklama sıranızı yazmanız gerekmektedir. Yoklama sıranıza aşağıda bağlantısı verilen listeden bakabilirsiniz.   
